@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+logs/*
+*.log
+
+# Database
+data/postgres/*
+data/redis/*
+
+# Grafana
+data/grafana/*
+
+# Temporary
+tmp/
+*.tmp
+
+# Test
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
